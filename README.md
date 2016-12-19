@@ -13,4 +13,4 @@ Chrome Custom Tabs allow an app to customize how Chrome looks and feels. An app 
 
 for more on GoogleCustomTabs refer : https://developer.chrome.com/multidevice/android/customtab.
 
-The GoogleCustomTabs can be customsed more..We will soon update the repo with same
+The GoogleCustomTabs can be customsed more..We will soon update the repo with same expalantion can be found [here](http://www.androidxu.com/2016/12/android-building-simple-in-app-browser.html)
